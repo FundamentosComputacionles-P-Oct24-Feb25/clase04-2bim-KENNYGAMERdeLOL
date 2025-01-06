@@ -19,4 +19,4 @@
 
 // 30
 // 110
-//
+//NO existen funciones debido a que ninguna tiene un retorno, por lo tanto son solo procedimientos y no son funciones a pesar de tener el nombre funcion.
